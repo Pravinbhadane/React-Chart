@@ -1,5 +1,6 @@
 import Chart from "react-google-charts";
 
+
 const data = [
 
   ['Month','OnePlus','Samsung'],
@@ -34,4 +35,5 @@ const Charts =() => {
       </div>
     )
   }
+  
 export default Charts;
